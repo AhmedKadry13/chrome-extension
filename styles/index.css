@@ -1,0 +1,27 @@
+.leads-list{
+    text-align: left;
+}
+a {
+    color: darkgreen;
+}
+
+.items-container{
+    list-style-type: none;
+    padding: 10px;
+    width: 90%;
+}
+
+.lead-item{
+    padding-top: 8px;
+}
+
+#clear-btn{
+    background-color: darkred;
+}
+
+i{
+    background: white;
+    color: darkgreen;
+    padding-left: 8px;
+    cursor: pointer;
+}
