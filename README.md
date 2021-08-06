@@ -1,5 +1,5 @@
 # chrome-extension
-google chrome extension for adding url to local storage 
+A google chrome extension for adding url to local storage 
 built based on the following tutorial from free code camp
 https://www.youtube.com/watch?v=jS4aFq5-91M
 
